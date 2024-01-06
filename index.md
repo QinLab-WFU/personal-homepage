@@ -1,5 +1,5 @@
 <span id = "Top"> </span>
-# 秦琦冰12 (Qibing Qin</a>)  
+# 秦琦冰 (Qibing Qin</a>)  
 
 <p style="width:970px;">
     <img src="/yu.jpg" align="right" width="180" hspace="5" vspace="5">
