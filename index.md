@@ -1,6 +1,5 @@
 <span id = "Top"> </span>
 # 秦琦冰 (Qibing Qin)  
-<p style=“宽度：970px;">
     <img src="/personal-homepage/qin.JPG" align="right" width="180" hspace="5" vspace="5" />
 </p>
 个人简介：<br>潍坊学院计算机工程学院副教授、校“杰青”计划支持人选、中国海洋大学访问学者、曲阜师范大学硕士生导师。博士毕业于中国海洋大学计算机应用技术专业，导师为<a href="https://it.ouc.edu.cn/wzq/main.htm">魏志强教授</a>和<a href="https://person.zju.edu.cn/ytqian">钱沄涛教授</a>。主要从事计算机视觉、多媒体内容分析与检索以及深度学习等领域的研究，包括基于深度哈希学习的大规模图像检索、跨模态检索以及深度度量学习等。以第一作者或者通讯作者在IEEE TMM、IEEE TCSVT、ACM TOMM、ICASSP等国际高水平期刊和会议上发表学术论文10余篇。主持国家自然科学基金青年基金、山东省自然科学基金青年基金、校“杰青”专项计划等项目，参与多项国家重点研发计划、国家自然科学基金面上项目和青年基金。<br>
