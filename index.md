@@ -35,15 +35,6 @@
 山东省计算机学会会员  
 目前担任IEEE TIP、IEEE TKDE、IEEE TNNLS、IEEE TCSVT、IEEE TMM、ACM TKDD等国际顶级期刊审稿人  
 
-
-## 奖励荣誉
-2022年10月获山东省人工智能自然科学奖二等奖（第一位次）    
-2021年12月获山东省自然科学奖三等奖（第三位次）   
-2019年12月获山东省科学技术进步奖二等奖（第六位次）     
-2017年10月获山东省高等学校科学技术奖三等奖（第一位次）     
-2014年01月获北京科技大学优秀博士学位论文奖    
-2012年12月获教育部博士研究生国家奖学金   
-
 ## 科研项目
 [2024-2026] 国家自然科学基金青年基金 “面向开放集图像检索的零样本哈希方法研究”，62302338，30万+60万（配套），主持者  
 [2023-2025] 山东省自然科学基金青年基金 “基于深度哈希学习的大规模图像检索方法研究”，ZR2022QF046，15万+15万（配套），主持者  
@@ -51,7 +42,7 @@
 [2020-2022] 国家重点研发计划项目 “海洋环境预报模式业务化运行评估与专项数据产品共享服务平台构建”， 2019YFC1408400 ，1069万， 参与人  
 [2017-2020] 国家自然科学基金面上项目 “面向大规模人物图像检索的语义特征提取研究”，61672475， 62万，参与人  
 
-## 发表论文（<a href="https://scholar.google.com/citations?user=8RXF4Q4AAAAJ&hl=en">谷歌学术</a>） 
+## 发表论文（<a href="https://dblp.org/pid/185/5154.html">DBLP</a>）  
 \# 指导学生，\* 通讯作者
 * Qibing Qin, Yadong Huo, Lei Huang, Jiangyan Dai, Huihui Zhang, Wenfeng Zhang. Deep Neighborhood-preserving Hashing with Quadratic Spherical Mutual Information for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2024. （中科院一区Top期刊，CCF-B）[[Code]](https://github.com/QinLab-WFU/DNpH)
 * Hongyan Zhou#, Qibing Qin*, Jinkui Hou, Jiangyan Dai, Lei Huang, Wenfeng Zhang. Deep global semantic structure-preserving hashing via corrective triplet loss for remote sensing image retrieval. Expert Systems with Applications, 2024, 238: 122105.（中科院一区Top期刊，CCF-C）[[Code]](https://github.com/QinLab-WFU/DGSSH)
