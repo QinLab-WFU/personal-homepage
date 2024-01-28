@@ -51,7 +51,7 @@
 * <strong><u>Qibing Qin</u></strong>, Kezhen Xie, Wenfeng Zhang, Chengduan Wang, Lei Huang. Deep neighborhood structure-preserving hashing for large-scale image retrieval. IEEE Transactions on Multimedia, 2023. （中科院一区Top期刊，CCF-B） 
 * <strong><u>Qibing Qin</u></strong>, Lei Huang, Kezhen Xie, Zhiqiang Wei, Chengduan Wang, Wenfeng Zhang. Deep Adaptive Quadruplet Hashing with Probability Sampling for Large-Scale Image Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 2023. （中科院一区Top期刊，CCF-B）
 * Renjie Pan, Ruisheng Ran, Wei Hu, Wenfeng Zhang, <strong><u>Qibing Qin</u></strong>*, Shaoguo Cui. S3-Net: A Self-Supervised dual-Stream Network for Radiology Report Generation. IEEE Journal of Biomedical and Health Informatics, 2023. （中科院一区Top期刊，CCF- C）
-* Yadong Huo， <strong><u>Qibing Qin</u></strong>,，Jiangyan Dai， Wenfeng Zhang，Lei Huang, Chengduan Wang.Deep Neighborhood-aware Proxy Hashing with Uniform Distribution Constraint for Cross-modal Retrieval. ACM Transactions on Multimedia Computing，2024.
+* Yadong Huo, <strong><u>Qibing Qin</u></strong>, Jiangyan Dai,  Wenfeng Zhang, Lei Huang, Chengduan Wang.Deep Neighborhood-aware Proxy Hashing with Uniform Distribution Constraint for Cross-modal Retrieval. ACM Transactions on Multimedia Computing, 2024.（中科院三区Top期刊，CCF-B）
 
 [↑Top](#Top)
 
