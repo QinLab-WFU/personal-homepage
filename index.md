@@ -51,7 +51,7 @@
 * Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Jiangyan Dai, Lei Wang, Wenfeng Zhang, Lei Huang, Chengduan Wang. Deep Semantic-aware Proxy Hashing for Multi-label Cross-modal Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 2023. （中科院一区Top期刊，CCF-B）[[Code]](https://github.com/QinLab-WFU/DSPH)[[PDF]](https://ieeexplore.ieee.org/abstract/document/10149001/)
 * <strong><u>Qibing Qin</u></strong>, Kezhen Xie, Wenfeng Zhang, Chengduan Wang, Lei Huang. Deep neighborhood structure-preserving hashing for large-scale image retrieval. IEEE Transactions on Multimedia, 2023. （中科院一区Top期刊，CCF-B） 
 * <strong><u>Qibing Qin</u></strong>, Lei Huang, Kezhen Xie, Zhiqiang Wei, Chengduan Wang, Wenfeng Zhang. Deep Adaptive Quadruplet Hashing with Probability Sampling for Large-Scale Image Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 2023. （中科院一区Top期刊，CCF-B）
-* Renjie Pan, Ruisheng Ran, Wei Hu, Wenfeng Zhang, <strong><u>Qibing Qin</u></strong>*, Shaoguo Cui. S3-Net: A Self-Supervised dual-Stream Network for Radiology Report Generation. IEEE Journal of Biomedical and Health Informatics, 2023. （中科院一区Top期刊，CCF- C）
+* Renjie Pan, Ruisheng Ran, Wei Hu, Wenfeng Zhang, <strong><u>Qibing Qin</u></strong>*, Shaoguo Cui. S3-Net: A Self-Supervised dual-Stream Network for Radiology Report Generation. IEEE Journal of Biomedical and Health Informatics, 2023. （中科院一区Top期刊，CCF-C）
 
 
 [↑Top](#Top)
