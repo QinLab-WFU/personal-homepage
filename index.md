@@ -45,6 +45,7 @@
 
 ## 发表论文（<a href="https://dblp.org/pid/185/5154.html">DBLP</a>、<a href="https://www.researchgate.net/profile/Qin-Qibing-2">ResearchGate</a>）  
 \# 指导学生，\* 通讯作者
+* Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval.  IEEE Transactions on Knowledge and Data Engineering, 2024.（CCF-A类期刊，信息检索领域顶级期刊）[[Code]](https://github.com/QinLab-WFU/DHaPH)[[PDF]](https://ieeexplore.ieee.org/document/10530441)
 * Renjie Pan, Ruisheng Ran, Wei Hu, Wenfeng Zhang, <strong><u>Qibing Qin</u></strong>*, and Shaoguo Cui. S3-Net: A Self-Supervised Dual-Stream Network for Radiology Report Generation. IEEE Journal of Biomedical and Health Informatics. 2024, 28(3): 1448-1459. (中科院一区Top期刊，CCF-C) [[PDF]](https://ieeexplore.ieee.org/document/10372071)
 * Wenfeng Zhang, Baoning Cai, Jianming Hu, <strong><u>Qibing Qin</u></strong>*, Kezhen Xie. Visual-textual Cross-modal Interaction Network for Radiology Report Generation. IEEE Signal Processing Letters, 2024. (中科院二区期刊，CCF-C) [[Code]](https://github.com/QinLab-WFU/VCIN)[[PDF]](https://ieeexplore.ieee.org/document/10475386)
 * Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Jiangyan Dai,  Wenfeng Zhang, Lei Huang, Chengduan Wang. Deep Neighborhood-aware Proxy Hashing with Uniform Distribution Constraint for Cross-modal Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2024.（中科院三区期刊，CCF-B）[[Code]](https://github.com/QinLab-WFU/OUR-DNPH)[[PDF]](https://dl.acm.org/doi/10.1145/3643639)
