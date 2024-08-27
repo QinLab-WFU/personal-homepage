@@ -43,6 +43,12 @@
 [2020-2022] 国家重点研发计划项目 “海洋环境预报模式业务化运行评估与专项数据产品共享服务平台构建”， 2019YFC1408400 ，1069万， 参与人  
 [2017-2020] 国家自然科学基金面上项目 “面向大规模人物图像检索的语义特征提取研究”，61672475， 62万，参与人  
 
+## 专利授权
+国家发明专利：一种智能动力电池热失控预警系统，王涛，魏建国，<strong>秦琦冰</strong>，高永存。2024105945025，2024.07.26。   
+国家发明专利：一种面向海洋环境数据的检索方法、系统、设备及介质，黄磊，张天择，<strong>秦琦冰</strong>，王瑞学，安辰，魏志强。2021107865163，2024.03.05。  
+国家发明专利：基于通道注意力的哈希遥感图像检索方法、装置及介质，黄磊，张天择，<strong>秦琦冰</strong>，刘超，魏志强。2021108719785，2023.11.28。  
+国家发明专利：一种基于显著性注意力机制的细粒度图像识别方法，黄磊，刘超，魏志强，李晓静，<strong>秦琦冰</strong>，2021107865214，2023.10.10。  
+
 ## 发表论文（<a href="https://dblp.org/pid/185/5154.html">DBLP</a>、<a href="https://www.researchgate.net/profile/Qin-Qibing-2">ResearchGate</a>）  
 \# 指导学生，\* 通讯作者
 * Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Hierarchy-aware Proxy Hashing with Self-paced Learning for Cross-modal Retrieval.  IEEE Transactions on Knowledge and Data Engineering, 2024.（CCF-A类期刊，信息检索领域顶级期刊）[[Code]](https://github.com/QinLab-WFU/DHaPH)[[PDF]](https://ieeexplore.ieee.org/document/10530441)
