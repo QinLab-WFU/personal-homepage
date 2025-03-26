@@ -45,6 +45,7 @@
 <nobr>[2017-2020] 国家自然科学基金面上项目 “面向大规模人物图像检索的语义特征提取研究”，61672475， 62万，参与人  </nobr>
 
 ## 专利授权
+<nobr>国家发明专利：基于球面哈希的图文跨模态检索方法、设备和存储介质。<strong>秦琦冰</strong>，盖枚岭， 隋新征。2025100992274，2025.02.28。  </nobr>
 <nobr>国家发明专利：一种智能动力电池热失控预警系统。王涛，魏建国，<strong>秦琦冰</strong>，高永存。2024105945025，2024.07.26。  </nobr>
 <nobr>国家发明专利：一种面向海洋环境数据的检索方法、系统、设备及介质，黄磊，张天择，<strong>秦琦冰</strong>，王瑞学，安辰，魏志强。2021107865163，2024.03.05。 </nobr>
 <nobr>国家发明专利：基于通道注意力的哈希遥感图像检索方法、装置及介质，黄磊，张天择，<strong>秦琦冰</strong>，刘超，魏志强。2021108719785，2023.11.28。  </nobr>
@@ -63,7 +64,7 @@
 * Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Jiangyan Dai,  Wenfeng Zhang, Lei Huang, Chengduan Wang. Deep Neighborhood-aware Proxy Hashing with Uniform Distribution Constraint for Cross-modal Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2024.（中科院三区期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/OUR-DNPH)[[PDF]](https://dl.acm.org/doi/10.1145/3643639)
 * <strong><u>Qibing Qin</u></strong>, Yadong Huo, Lei Huang, Jiangyan Dai, Huihui Zhang, Wenfeng Zhang. Deep Neighborhood-preserving Hashing with Quadratic Spherical Mutual Information for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2024.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/DNpH)[[PDF]](https://ieeexplore.ieee.org/abstract/document/10379137)
 * Hongyan Zhou#, <strong><u>Qibing Qin</u></strong>*, Jinkui Hou, Jiangyan Dai, Lei Huang, Wenfeng Zhang. Deep global semantic structure-preserving hashing via corrective triplet loss for remote sensing image retrieval. Expert Systems with Applications, 2024, 238: 122105.（中科院一区Top期刊，CCF-C类期刊）[[Code]](https://github.com/QinLab-WFU/DGSSH)[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423026076)
-* Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Jiangyan Dai, Lei Wang, Wenfeng Zhang, Lei Huang, Chengduan Wang. Deep Semantic-aware Proxy Hashing for Multi-label Cross-modal Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 2023. （中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/DSPH)[[PDF]](https://ieeexplore.ieee.org/abstract/document/10149001/)
+* Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Jiangyan Dai, Lei Wang, Wenfeng Zhang, Lei Huang, Chengduan Wang. Deep Semantic-aware Proxy Hashing for Multi-label Cross-modal Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 2023. （中科院一区Top期刊，CCF-B类期刊, <strong>ESI高被引论文</strong>）[[Code]](https://github.com/QinLab-WFU/DSPH)[[PDF]](https://ieeexplore.ieee.org/abstract/document/10149001/)
 * <strong><u>Qibing Qin</u></strong>, Kezhen Xie, Wenfeng Zhang, Chengduan Wang, Lei Huang. Deep neighborhood structure-preserving hashing for large-scale image retrieval. IEEE Transactions on Multimedia, 2023. （中科院一区Top期刊，CCF-B类期刊） 
 * <strong><u>Qibing Qin</u></strong>, Lei Huang, Kezhen Xie, Zhiqiang Wei, Chengduan Wang, Wenfeng Zhang. Deep Adaptive Quadruplet Hashing with Probability Sampling for Large-Scale Image Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 2023. （中科院一区Top期刊，CCF-B类期刊）
 
@@ -71,4 +72,4 @@
 [↑Top](#Top)
 
 
-**更新时间：2024/1/6**
+**更新时间：2025/3/23**
