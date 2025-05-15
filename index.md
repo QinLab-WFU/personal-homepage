@@ -54,6 +54,7 @@
 
 ## 发表论文（<a href="https://dblp.org/pid/185/5154.html">DBLP</a>、<a href="https://www.researchgate.net/profile/Qin-Qibing-2">ResearchGate</a>）  
 \# 指导学生，\* 通讯作者
+* <strong><u>Qibing Qin</u></strong>, Yadong Huo, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Discriminative Boundary Hashing for Cross-modal Retrieval. IEEE Transactions on Circuits and Systems for Video Technology, 2025.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/DDBH)[[PDF]](https://ieeexplore.ieee.org/document/11003934)
 *  Congcong Zhu, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang. Deep neighbor-coherence hashing with discriminative sample mining for supervised cross-modal retrieval. Expert Systems with Applications, 2025: 127365.（中科院一区Top期刊，CCF-C类期刊） [[Code]](https://github.com/QinLab-WFU/DNcH)[[PDF]](https://www.sciencedirect.com/science/article/pii/S095741742500987X)
 * <strong><u>Qibing Qin</u></strong>, Lei Wu, Wenfeng Zhang, Lei Huang, Jie Nie. Deep Semantic-consistent Penalizing Hashing for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2025.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/DScPH)[[PDF]](https://ieeexplore.ieee.org/document/10855579)
 * Runing Li, Jiangyan Dai, <strong><u>Qibing Qin</u></strong>, Chengduan Wang, Huihui Zhang, Yugen Yi. Texture and Structure-Guided Dual-Attention Mechanism for Image Inpainting. ACM Transactions on Multimedia Computing, Communications, and Applications, 2025.（中科院三区期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/TSGDAM)[[PDF]](https://dl.acm.org/doi/abs/10.1145/3715962)
