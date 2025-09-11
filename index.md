@@ -56,6 +56,7 @@
 
 ## 发表论文（<a href="https://dblp.org/pid/185/5154.html">DBLP</a>、<a href="https://www.researchgate.net/profile/Qin-Qibing-2">ResearchGate</a>）  
 \# 指导学生，\* 通讯作者
+* Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, and Lei Huang. Ranking-oriented cross-modal hashing. Engineering Applications of Artificial Intelligence, 2025: 112195. （中科院一区Top期刊，CCF-C类期刊）[[Code]](https://github.com/QinLab-WFU/ROCMH)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197625022031?dgcid=author)
 *  Yongyue Fu#, <strong><u>Qibing Qin</u></strong>*, Jinkui Hou, Congcong Zhu, Lei Huang, and Wenfeng Zhang. Deep Asymmetric Semantic Hashing with Probability Shifting for Multi-Label Image Retrieval. Expert Systems with Applications, 2025: 129577.（中科院一区Top期刊，CCF-C类期刊）[[Code]](https://github.com/QinLab-WFU/DASH-PS)[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0957417425031926)
 * Kun Cheng#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval. The ACM International Conference on Multimedia (ACM MM), 2025. (CCF-A类会议, <strong>Oral</strong>) [[Code]]( https://github.com/QinLab-WFU/DPBE)
 * Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, Lei Huang, and Jie Nie. Factorized Transformer Hashing with Adaptive Routing for Large-scale Image Retrieval. The ACM International Conference on Multimedia (ACM MM), 2025. (CCF-A类会议) [[Code]]( https://github.com/QinLab-WFU/FTH)
