@@ -37,7 +37,6 @@
 目前担任IEEE TIP、IEEE TKDE、IEEE TNNLS、IEEE TCSVT、IEEE TMM、ACM TKDD等国际顶级期刊审稿人  
 
 ## 科研项目
-<nobr>[2025-2028] 潍坊市重点实验室 “潍坊市数据智能与先进计算重点实验室”，<strong>主持人</strong>  </nobr>
 <nobr>[2025-2028] 山东省自然科学基金面上项目 “面向信息不完备的深度哈希跨模态检索方法研究”，ZR2025MS1067，10万，<strong>主持人</strong>  </nobr>
 <nobr>[2025-2027] 山东省高等学校青创团队计划 “多媒体内容分析与检索”，2024JKH152，<strong>主持人</strong>  </nobr>
 <nobr>[2024-2026] 国家自然科学基金青年基金 “面向开放集图像检索的零样本哈希方法研究”，62302338，30万，<strong>主持人</strong>  </nobr>
