@@ -57,6 +57,7 @@
 
 ## 发表论文（<a href="https://dblp.org/pid/185/5154.html">DBLP</a>、<a href="https://www.researchgate.net/profile/Qin-Qibing-2">ResearchGate</a>）  
 \# 指导学生，\* 通讯作者
+* Shuo Han#, <strong><u>Qibing Qin</u></strong>*,  Wenfeng Zhang, Lei Huang. Deep Uncertainty-aware Probabilistic Hashing for Cross-modal Retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications, 2025. (CCF-B类期刊，多媒体领域权威期刊) [[Code]](https://github.com/QinLab-WFU/DUaPH)[[PDF]](https://dl.acm.org/doi/10.1145/3785478)
 * Shuo Han#, <strong><u>Qibing Qin</u></strong>*, Kezhen Xie, Wenfeng Zhang, Lei Huang. Polysemic Semantic Instance Network for Cross-Modal Hashing. Proceedings of the AAAI conference on Artificial Intelligence, 2026. (CCF-A/CAAI-A类会议, 人工智能领域顶级学术会议) [[Code]](https://github.com/QinLab-WFU/DPSIH)
 * <strong><u>Qibing Qin</u></strong>, Lei Wu, Wenfeng Zhang, Huihui Zhang, Lei Huang, and Jie Nie. Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval. IEEE Transactions on Multimedia, 2025.（中科院一区Top期刊，CCF-B类期刊）[[Code]](https://github.com/QinLab-WFU/DSTH)[[PDF]](https://ieeexplore.ieee.org/document/11208593)
 * Yadong Huo#, <strong><u>Qibing Qin</u></strong>*, Wenfeng Zhang, and Lei Huang. Ranking-oriented cross-modal hashing. Engineering Applications of Artificial Intelligence, 2025: 112195. （中科院一区Top期刊，CCF-C类期刊）[[Code]](https://github.com/QinLab-WFU/ROCMH)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197625022031?dgcid=author)
